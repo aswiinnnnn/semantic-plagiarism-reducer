@@ -1,0 +1,5 @@
+spacy
+gensim
+sentence-transformers
+scikit-learn
+numpy
